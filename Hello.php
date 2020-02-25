@@ -40,7 +40,7 @@
 ?>
 
 <div class='copyright-container'>
-  <p class='copyright-text'>2010-2019 | &copy; HashedIn Technologies Pvt. Ltd.</p>
+  <p class='copyright-text'>2010-<?php date('y'); ?> | &copy; HashedIn Technologies Pvt. Ltd.</p>
 </div>
 <!-- Uncomment the following to setup intercom in local environment -->
 <!-- <script>
